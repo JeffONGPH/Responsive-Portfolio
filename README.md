@@ -1,2 +1,1 @@
-# Responsive-Portfolio
-bootstrap
+# Basic-Portfolio
